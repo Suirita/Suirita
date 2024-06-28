@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Suirita Fahd</h1>
-<h3 align="center">A passionate frontend developer from Morocco</h3>
+<h3 align="center">A passionate Full Stack Developer from Morocco with a passion for blending creativity and functionality in web development. Beyond coding, you'll often find me in the gym, dedicated to bodybuilding and pushing my physical limits. I thrive on collaborative projects where diverse perspectives fuel innovation. Let's connect and explore how we can make a positive impact through technology together.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suirita&label=Profile%20views&color=0e75b6&style=flat" alt="suirita" /> </p>
 
