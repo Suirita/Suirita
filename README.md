@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Suirita Fahd</h1>
-<h3 align="center">A passionate frontend developer from From</h3>
+<h3 align="center">A passionate frontend developer from Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suirita&label=Profile%20views&color=0e75b6&style=flat" alt="suirita" /> </p>
 
-- 🔭 I’m currently working on **Desky**
+- 🔭 I’m currently working on [Desky](https://github.com/Suirita/desky)
 
 - 🌱 I’m currently learning **Java**
 
